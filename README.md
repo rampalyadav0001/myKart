@@ -1,6 +1,6 @@
 
 # E-Commerce Shopping Cart Application
-
+Live project link:- https://my-kart-bice.vercel.app/
 ## Overview
 
 This is a simple e-commerce shopping cart application built using **React** and **Redux**. The application allows users to view products, add them to a shopping cart, manage items in the cart, and apply discounts. 
