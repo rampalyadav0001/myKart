@@ -53,9 +53,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/e-commerce-shopping-cart.git
-
-   ```
+   git clone https://github.com/yourusername/e-commerce-shopping-cart.git```
 
 2.Navigate to the Project Directory
 
